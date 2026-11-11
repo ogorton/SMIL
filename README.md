@@ -18,32 +18,15 @@ fit.
 
 ## Folder structure
 
-data 
 
-    contains files necessary to generate new random interactions from the
-    posteriors
-
-python
-
-    Python script to generate new random interactions. Run with:
-        /path/to/python3 generateNewSamples.py
-
-usd66
-
-    670 samples from the USD66 interaction.
-
-usdbuq
-
-    560 samples from the USDBUQ interaction.
-
-usdbuq-500
-
-    560 samples from the USDBUQ-500 interaction.
-
-sdshelldata.xml
-
-    XML file listing all experimental energies and their uncertainties used to
-    fit the provided interactions.
+| Folder | Description |
+|---|---|
+| `data` | Contains files necessary to generate new random interactions from the posteriors. |
+| `python` | Python script to generate new random interactions. Run with:<br>`/path/to/python3 generateNewSamples.py` |
+| `usd66` | 670 samples from the USD66 interaction. |
+| `usdbuq` | 560 samples from the USDBUQ interaction. |
+| `usdbuq-500` | 560 samples from the USDBUQ-500 interaction. |
+| `sdshelldata.xml` | XML file listing all experimental energies and their uncertainties used to fit the provided interactions. |
 
 ## Getting started
 
