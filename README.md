@@ -1,11 +1,13 @@
-# REAEDME
+# README
 
 Data and code repository to accompany article "Towards shell model interactions
 with credible uncertainties" by Oliver Gorton and Kostas Kravvaris.
 
 Journal: Phys. Rev. C 112, 014302 – Published 1 July, 2025 
+
 Related DOI: https://doi.org/10.1103/fzxv-4q1r
-arXiv:2503.11889
+
+Preprint: arXiv:2503.11889
 
 This repository contains code and binaries that can be used to generate new
 random interactions from the posterior fits of the USDBUQ, USD66, and USDBUQ-500
