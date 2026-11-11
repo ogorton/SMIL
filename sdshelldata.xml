@@ -1,0 +1,764 @@
+<experimentalData>
+  <nucleus name="17O">
+    <datum J="5/2" n="1" T="1/2" E="-4.144" dEexp="0.0" />
+    <datum J="1/2" n="1" T="1/2" E="0.87" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="18O">
+    <datum J="0" n="1" T="1" E="-12.188" dEexp="0.0" />
+    <datum J="2" n="1" T="1" E="1.982" dEexp="0.0" />
+    <datum J="4" n="1" T="1" E="3.555" dEexp="0.0" />
+    <datum J="3" n="1" T="1" E="5.378" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="19O">
+    <datum J="5/2" n="1" T="3/2" E="-16.143" dEexp="0.003" />
+    <datum J="3/2" n="1" T="3/2" E="0.096" dEexp="0.0" />
+    <datum J="1/2" n="1" T="3/2" E="1.472" dEexp="0.0" />
+    <datum J="9/2" n="1" T="3/2" E="2.372" dEexp="0.0" />
+    <datum J="7/2" n="1" T="3/2" E="2.779" dEexp="0.0" />
+    <datum J="5/2" n="2" T="3/2" E="3.154" dEexp="0.0" />
+    <datum J="3/2" n="2" T="3/2" E="4.109" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="20O">
+    <datum J="0" n="1" T="2" E="-23.752" dEexp="0.0" />
+    <datum J="2" n="1" T="2" E="1.674" dEexp="0.0" />
+    <datum J="4" n="1" T="2" E="3.568" dEexp="0.0" />
+    <datum J="2" n="2" T="2" E="4.07" dEexp="0.0" />
+    <datum J="0" n="2" T="2" E="5.387" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="21O">
+    <datum J="5/2" n="1" T="5/2" E="-27.558" dEexp="0.012" />
+    <datum J="1/2" n="1" T="5/2" E="1.218" dEexp="0.0" />
+    <datum J="3/2" n="1" T="5/2" E="2.133" dEexp="0.0" />
+    <datum J="5/2" n="2" T="5/2" E="3.026" dEexp="0.0" />
+    <datum J="7/2" n="1" T="5/2" E="3.073" dEexp="0.0" />
+    <datum J="9/2" n="1" T="5/2" E="4.927" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="22O">
+    <datum J="0" n="1" T="3" E="-34.408" dEexp="0.057" />
+    <datum J="2" n="1" T="3" E="3.199" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="23O">
+    <datum J="1/2" n="1" T="7/2" E="-37.146" dEexp="0.078" />
+  </nucleus>
+  <nucleus name="24O">
+    <datum J="0" n="1" T="4" E="-41.34" dEexp="0.098" />
+  </nucleus>
+  <nucleus name="18F">
+    <datum J="1" n="1" T="0" E="-13.23" dEexp="0.0" />
+    <datum J="3" n="1" T="0" E="0.937" dEexp="0.0" />
+    <datum J="5" n="1" T="0" E="1.121" dEexp="0.0" />
+    <datum J="1" n="2" T="0" E="3.724" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="19F">
+    <datum J="1/2" n="1" T="1/2" E="-23.662" dEexp="0.0" />
+    <datum J="5/2" n="1" T="1/2" E="0.197" dEexp="0.0" />
+    <datum J="3/2" n="1" T="1/2" E="1.554" dEexp="0.0" />
+    <datum J="9/2" n="1" T="1/2" E="2.779" dEexp="0.0" />
+    <datum J="13/2" n="1" T="1/2" E="4.647" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="5.106" dEexp="0.0" />
+    <datum J="1/2" n="2" T="1/2" E="6.255" dEexp="0.0" />
+    <datum J="11/2" n="1" T="1/2" E="6.5" dEexp="0.0" />
+    <datum J="11/2" n="2" T="1/2" E="7.937" dEexp="0.0" />
+    <datum J="13/2" n="2" T="1/2" E="10.411" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="20F">
+    <datum J="2" n="1" T="1" E="-30.264" dEexp="0.0" />
+    <datum J="3" n="1" T="1" E="0.656" dEexp="0.0" />
+    <datum J="4" n="1" T="1" E="0.822" dEexp="0.0" />
+    <datum J="1" n="1" T="1" E="1.057" dEexp="0.0" />
+    <datum J="5" n="1" T="1" E="1.823" dEexp="0.0" />
+    <datum J="2" n="2" T="1" E="2.044" dEexp="0.0" />
+    <datum J="3" n="2" T="1" E="2.194" dEexp="0.0" />
+    <datum J="3" n="3" T="1" E="2.966" dEexp="0.0" />
+    <datum J="1" n="2" T="1" E="3.488" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="21F">
+    <datum J="5/2" n="1" T="3/2" E="-38.365" dEexp="0.002" />
+    <datum J="1/2" n="1" T="3/2" E="0.28" dEexp="0.0" />
+    <datum J="3/2" n="1" T="3/2" E="1.73" dEexp="0.0" />
+    <datum J="9/2" n="1" T="3/2" E="1.755" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="22F">
+    <datum J="4" n="1" T="2" E="-43.596" dEexp="0.012" />
+    <datum J="3" n="1" T="2" E="0.072" dEexp="0.0" />
+    <datum J="2" n="1" T="2" E="0.71" dEexp="0.0" />
+    <datum J="5" n="1" T="2" E="1.414" dEexp="0.0" />
+    <datum J="1" n="1" T="2" E="1.625" dEexp="0.0" />
+    <datum J="2" n="2" T="2" E="2.01" dEexp="0.0" />
+    <datum J="1" n="2" T="2" E="2.572" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="23F">
+    <datum J="5/2" n="1" T="5/2" E="-51.131" dEexp="0.08" />
+    <datum J="7/2" n="1" T="5/2" E="2.912" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="24F">
+    <datum J="3" n="1" T="3" E="-54.972" dEexp="0.072" />
+    <datum J="2" n="1" T="3" E="0.521" dEexp="0.0" />
+    <datum J="1" n="1" T="3" E="1.831" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="25F">
+    <datum J="5/2" n="1" T="7/2" E="-59.255" dEexp="0.065" />
+    <datum J="9/2" n="1" T="7/2" E="3.916" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="26F">
+    <datum J="1" n="1" T="4" E="-60.066" dEexp="0.069" />
+  </nucleus>
+  <nucleus name="27F">
+    <datum J="5/2" n="1" T="9/2" E="-62.115" dEexp="0.188" />
+  </nucleus>
+  <nucleus name="20Ne">
+    <datum J="0" n="1" T="0" E="-40.479" dEexp="0.0" />
+    <datum J="2" n="1" T="0" E="1.634" dEexp="0.0" />
+    <datum J="4" n="1" T="0" E="4.248" dEexp="0.0" />
+    <datum J="0" n="2" T="0" E="6.724" dEexp="0.0" />
+    <datum J="2" n="2" T="0" E="7.421" dEexp="0.0" />
+    <datum J="6" n="1" T="0" E="8.777" dEexp="0.0" />
+    <datum J="8" n="1" T="0" E="11.951" dEexp="0.0" />
+    <datum J="6" n="2" T="0" E="12.585" dEexp="0.0" />
+    <datum J="8" n="2" T="0" E="15.874" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="21Ne">
+    <datum J="3/2" n="1" T="1/2" E="-47.24" dEexp="0.0" />
+    <datum J="5/2" n="1" T="1/2" E="0.351" dEexp="0.0" />
+    <datum J="7/2" n="1" T="1/2" E="1.746" dEexp="0.0" />
+    <datum J="1/2" n="1" T="1/2" E="2.796" dEexp="0.0" />
+    <datum J="9/2" n="1" T="1/2" E="2.866" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="3.734" dEexp="0.0" />
+    <datum J="11/2" n="1" T="1/2" E="4.432" dEexp="0.0" />
+    <datum J="5/2" n="3" T="1/2" E="4.524" dEexp="0.0" />
+    <datum J="3/2" n="2" T="1/2" E="4.684" dEexp="0.0" />
+    <datum J="7/2" n="2" T="1/2" E="5.43" dEexp="0.0" />
+    <datum J="3/2" n="3" T="1/2" E="5.549" dEexp="0.0" />
+    <datum J="9/2" n="2" T="1/2" E="6.265" dEexp="0.0" />
+    <datum J="13/2" n="1" T="1/2" E="6.447" dEexp="0.0" />
+    <datum J="1/2" n="3" T="1/2" E="7.212" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="22Ne">
+    <datum J="0" n="1" T="1" E="-57.604" dEexp="0.0" />
+    <datum J="2" n="1" T="1" E="1.275" dEexp="0.0" />
+    <datum J="4" n="1" T="1" E="3.357" dEexp="0.0" />
+    <datum J="2" n="2" T="1" E="4.457" dEexp="0.0" />
+    <datum J="1" n="1" T="1" E="5.329" dEexp="0.0" />
+    <datum J="2" n="3" T="1" E="5.365" dEexp="0.0" />
+    <datum J="4" n="2" T="1" E="5.523" dEexp="0.0" />
+    <datum J="3" n="1" T="1" E="5.641" dEexp="0.0" />
+    <datum J="2" n="4" T="1" E="6.119" dEexp="0.0" />
+    <datum J="0" n="2" T="1" E="6.237" dEexp="0.0" />
+    <datum J="6" n="1" T="1" E="6.311" dEexp="0.0" />
+    <datum J="4" n="3" T="1" E="6.345" dEexp="0.0" />
+    <datum J="2" n="5" T="1" E="6.817" dEexp="0.0" />
+    <datum J="1" n="2" T="1" E="6.854" dEexp="0.0" />
+    <datum J="0" n="3" T="1" E="7.341" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="23Ne">
+    <datum J="5/2" n="1" T="3/2" E="-62.805" dEexp="0.0" />
+    <datum J="1/2" n="1" T="3/2" E="1.017" dEexp="0.0" />
+    <datum J="7/2" n="1" T="3/2" E="1.701" dEexp="0.0" />
+    <datum J="3/2" n="1" T="3/2" E="1.822" dEexp="0.0" />
+    <datum J="5/2" n="2" T="3/2" E="2.315" dEexp="0.0" />
+    <datum J="9/2" n="1" T="3/2" E="2.517" dEexp="0.0" />
+    <datum J="3/2" n="2" T="3/2" E="3.432" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="24Ne">
+    <datum J="0" n="1" T="2" E="-71.674" dEexp="0.0" />
+    <datum J="2" n="1" T="2" E="1.981" dEexp="0.0" />
+    <datum J="2" n="2" T="2" E="3.871" dEexp="0.0" />
+    <datum J="4" n="1" T="2" E="3.962" dEexp="0.0" />
+    <datum J="0" n="2" T="2" E="4.765" dEexp="0.0" />
+    <datum J="3" n="1" T="2" E="4.886" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="25Ne">
+    <datum J="1/2" n="1" T="5/2" E="-75.902" dEexp="0.026" />
+  </nucleus>
+  <nucleus name="26Ne">
+    <datum J="0" n="1" T="3" E="-81.435" dEexp="0.027" />
+    <datum J="2" n="1" T="3" E="2.018" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="27Ne">
+    <datum J="3/2" n="1" T="7/2" E="-82.903" dEexp="0.058" />
+  </nucleus>
+  <nucleus name="28Ne">
+    <datum J="0" n="1" T="4" E="-86.741" dEexp="0.087" />
+  </nucleus>
+  <nucleus name="22Na">
+    <datum J="3" n="1" T="0" E="-58.259" dEexp="0.0" />
+    <datum J="1" n="1" T="0" E="0.583" dEexp="0.0" />
+    <datum J="4" n="1" T="0" E="0.891" dEexp="0.0" />
+    <datum J="5" n="1" T="0" E="1.528" dEexp="0.0" />
+    <datum J="1" n="2" T="0" E="1.937" dEexp="0.0" />
+    <datum J="3" n="2" T="0" E="1.984" dEexp="0.0" />
+    <datum J="3" n="3" T="0" E="2.969" dEexp="0.0" />
+    <datum J="2" n="1" T="0" E="3.06" dEexp="0.0" />
+    <datum J="6" n="1" T="0" E="3.707" dEexp="0.0" />
+    <datum J="1" n="3" T="0" E="3.944" dEexp="0.0" />
+    <datum J="2" n="2" T="0" E="4.36" dEexp="0.0" />
+    <datum J="7" n="1" T="0" E="4.524" dEexp="0.0" />
+    <datum J="5" n="2" T="0" E="4.71" dEexp="0.0" />
+    <datum J="3" n="4" T="0" E="4.771" dEexp="0.0" />
+    <datum J="4" n="2" T="0" E="5.101" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="23Na">
+    <datum J="3/2" n="1" T="1/2" E="-70.678" dEexp="0.0" />
+    <datum J="5/2" n="1" T="1/2" E="0.439" dEexp="0.0" />
+    <datum J="7/2" n="1" T="1/2" E="2.076" dEexp="0.0" />
+    <datum J="1/2" n="1" T="1/2" E="2.39" dEexp="0.0" />
+    <datum J="9/2" n="1" T="1/2" E="2.703" dEexp="0.0" />
+    <datum J="3/2" n="2" T="1/2" E="2.982" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="3.914" dEexp="0.0" />
+    <datum J="1/2" n="2" T="1/2" E="4.429" dEexp="0.0" />
+    <datum J="7/2" n="2" T="1/2" E="4.774" dEexp="0.0" />
+    <datum J="5/2" n="3" T="1/2" E="5.378" dEexp="0.0" />
+    <datum J="11/2" n="1" T="1/2" E="5.534" dEexp="0.0" />
+    <datum J="5/2" n="4" T="1/2" E="5.741" dEexp="0.0" />
+    <datum J="3/2" n="3" T="1/2" E="5.766" dEexp="0.0" />
+    <datum J="1/2" n="3" T="1/2" E="6.307" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="24Na">
+    <datum J="4" n="1" T="1" E="-77.637" dEexp="0.0" />
+    <datum J="1" n="1" T="1" E="0.472" dEexp="0.0" />
+    <datum J="2" n="1" T="1" E="0.563" dEexp="0.0" />
+    <datum J="2" n="2" T="1" E="1.341" dEexp="0.0" />
+    <datum J="3" n="1" T="1" E="1.344" dEexp="0.0" />
+    <datum J="1" n="2" T="1" E="1.346" dEexp="0.0" />
+    <datum J="5" n="1" T="1" E="1.512" dEexp="0.0" />
+    <datum J="2" n="3" T="1" E="1.846" dEexp="0.0" />
+    <datum J="3" n="2" T="1" E="1.885" dEexp="0.0" />
+    <datum J="3" n="3" T="1" E="2.513" dEexp="0.0" />
+    <datum J="3" n="4" T="1" E="2.904" dEexp="0.0" />
+    <datum J="1" n="3" T="1" E="3.413" dEexp="0.0" />
+    <datum J="1" n="4" T="1" E="3.589" dEexp="0.0" />
+    <datum J="3" n="5" T="1" E="3.628" dEexp="0.0" />
+    <datum J="0" n="1" T="1" E="3.682" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="25Na">
+    <datum J="5/2" n="1" T="3/2" E="-86.648" dEexp="0.0" />
+    <datum J="3/2" n="1" T="3/2" E="0.089" dEexp="0.0" />
+    <datum J="1/2" n="1" T="3/2" E="1.069" dEexp="0.0" />
+    <datum J="3/2" n="2" T="3/2" E="2.202" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="26Na">
+    <datum J="3" n="1" T="2" E="-92.224" dEexp="0.006" />
+    <datum J="1" n="1" T="2" E="0.082" dEexp="0.0" />
+    <datum J="2" n="1" T="2" E="0.233" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="27Na">
+    <datum J="5/2" n="1" T="5/2" E="-98.951" dEexp="0.004" />
+    <datum J="3/2" n="1" T="5/2" E="0.062" dEexp="0.0" />
+    <datum J="1/2" n="1" T="5/2" E="1.728" dEexp="0.0" />
+    <datum J="7/2" n="1" T="5/2" E="2.191" dEexp="0.0" />
+    <datum J="9/2" n="1" T="5/2" E="2.224" dEexp="0.0" />
+    <datum J="5/2" n="2" T="5/2" E="2.799" dEexp="0.0" />
+    <datum J="3/2" n="2" T="5/2" E="3.019" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="28Na">
+    <datum J="1" n="1" T="3" E="-102.494" dEexp="0.013" />
+    <datum J="2" n="1" T="3" E="0.055" dEexp="0.0" />
+    <datum J="1" n="2" T="3" E="2.118" dEexp="0.0" />
+    <datum J="1" n="3" T="3" E="2.714" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="29Na">
+    <datum J="3/2" n="1" T="7/2" E="-106.911" dEexp="0.013" />
+    <datum J="5/2" n="1" T="7/2" E="0.072" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="24Mg">
+    <datum J="0" n="1" T="0" E="-87.104" dEexp="0.0" />
+    <datum J="2" n="1" T="0" E="1.369" dEexp="0.0" />
+    <datum J="4" n="1" T="0" E="4.123" dEexp="0.0" />
+    <datum J="2" n="2" T="0" E="4.238" dEexp="0.0" />
+    <datum J="3" n="1" T="0" E="5.236" dEexp="0.0" />
+    <datum J="4" n="2" T="0" E="6.01" dEexp="0.0" />
+    <datum J="2" n="3" T="0" E="7.348" dEexp="0.0" />
+    <datum J="1" n="1" T="0" E="7.747" dEexp="0.0" />
+    <datum J="5" n="1" T="0" E="7.812" dEexp="0.0" />
+    <datum J="6" n="1" T="0" E="8.113" dEexp="0.0" />
+    <datum J="4" n="3" T="0" E="8.437" dEexp="0.0" />
+    <datum J="4" n="4" T="0" E="9.298" dEexp="0.0" />
+    <datum J="6" n="2" T="0" E="9.528" dEexp="0.0" />
+    <datum J="1" n="2" T="0" E="9.827" dEexp="0.0" />
+    <datum J="5" n="2" T="0" E="10.575" dEexp="0.0" />
+    <datum J="8" n="1" T="0" E="11.86" dEexp="0.0" />
+    <datum J="6" n="3" T="0" E="12.0" dEexp="0.0" />
+    <datum J="8" n="2" T="0" E="13.21" dEexp="0.0" />
+    <datum J="8" n="3" T="0" E="14.152" dEexp="0.0" />
+    <datum J="10" n="1" T="0" E="19.2" dEexp="0.1" />
+  </nucleus>
+  <nucleus name="25Mg">
+    <datum J="5/2" n="1" T="1/2" E="-94.435" dEexp="0.0" />
+    <datum J="1/2" n="1" T="1/2" E="0.585" dEexp="0.0" />
+    <datum J="3/2" n="1" T="1/2" E="0.975" dEexp="0.0" />
+    <datum J="7/2" n="1" T="1/2" E="1.611" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="1.964" dEexp="0.0" />
+    <datum J="1/2" n="2" T="1/2" E="2.564" dEexp="0.0" />
+    <datum J="7/2" n="2" T="1/2" E="2.737" dEexp="0.0" />
+    <datum J="3/2" n="2" T="1/2" E="2.801" dEexp="0.0" />
+    <datum J="9/2" n="1" T="1/2" E="3.405" dEexp="0.0" />
+    <datum J="5/2" n="3" T="1/2" E="3.907" dEexp="0.0" />
+    <datum J="9/2" n="2" T="1/2" E="4.059" dEexp="0.0" />
+    <datum J="3/2" n="3" T="1/2" E="4.359" dEexp="0.0" />
+    <datum J="9/2" n="3" T="1/2" E="4.711" dEexp="0.0" />
+    <datum J="7/2" n="3" T="1/2" E="5.012" dEexp="0.0" />
+    <datum J="11/2" n="1" T="1/2" E="5.251" dEexp="0.0" />
+    <datum J="13/2" n="1" T="1/2" E="5.46" dEexp="0.0" />
+    <datum J="1/2" n="3" T="1/2" E="5.475" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="26Mg">
+    <datum J="0" n="1" T="1" E="-105.528" dEexp="0.0" />
+    <datum J="2" n="1" T="1" E="1.808" dEexp="0.0" />
+    <datum J="2" n="2" T="1" E="2.938" dEexp="0.0" />
+    <datum J="0" n="2" T="1" E="3.588" dEexp="0.0" />
+    <datum J="3" n="1" T="1" E="3.941" dEexp="0.0" />
+    <datum J="4" n="1" T="1" E="4.318" dEexp="0.0" />
+    <datum J="2" n="3" T="1" E="4.332" dEexp="0.0" />
+    <datum J="3" n="2" T="1" E="4.35" dEexp="0.0" />
+    <datum J="2" n="4" T="1" E="4.835" dEexp="0.0" />
+    <datum J="4" n="2" T="1" E="4.901" dEexp="0.0" />
+    <datum J="0" n="3" T="1" E="4.972" dEexp="0.0" />
+    <datum J="2" n="5" T="1" E="5.291" dEexp="0.0" />
+    <datum J="4" n="3" T="1" E="5.476" dEexp="0.0" />
+    <datum J="1" n="1" T="1" E="5.691" dEexp="0.0" />
+    <datum J="4" n="4" T="1" E="5.715" dEexp="0.0" />
+    <datum J="3" n="3" T="1" E="6.125" dEexp="0.0" />
+    <datum J="0" n="4" T="1" E="6.256" dEexp="0.0" />
+    <datum J="4" n="5" T="1" E="6.622" dEexp="0.0" />
+    <datum J="5" n="1" T="1" E="6.978" dEexp="0.0" />
+    <datum J="2" n="7" T="1" E="7.099" dEexp="0.0" />
+    <datum J="5" n="2" T="1" E="7.395" dEexp="0.0" />
+    <datum J="6" n="1" T="1" E="8.201" dEexp="0.0" />
+    <datum J="6" n="2" T="1" E="8.472" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="27Mg">
+    <datum J="1/2" n="1" T="3/2" E="-111.971" dEexp="0.0" />
+    <datum J="3/2" n="1" T="3/2" E="0.985" dEexp="0.0" />
+    <datum J="5/2" n="1" T="3/2" E="1.698" dEexp="0.0" />
+    <datum J="5/2" n="2" T="3/2" E="1.94" dEexp="0.0" />
+    <datum J="7/2" n="1" T="3/2" E="3.109" dEexp="0.0" />
+    <datum J="1/2" n="2" T="3/2" E="3.476" dEexp="0.0" />
+    <datum J="9/2" n="1" T="3/2" E="3.884" dEexp="0.0" />
+    <datum J="1/2" n="3" T="3/2" E="5.028" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="28Mg">
+    <datum J="0" n="1" T="2" E="-120.474" dEexp="0.002" />
+    <datum J="2" n="1" T="2" E="1.473" dEexp="0.0" />
+    <datum J="0" n="2" T="2" E="3.863" dEexp="0.0" />
+    <datum J="4" n="1" T="2" E="4.02" dEexp="0.0" />
+    <datum J="2" n="2" T="2" E="4.557" dEexp="0.0" />
+    <datum J="1" n="1" T="2" E="4.56" dEexp="0.0" />
+    <datum J="2" n="3" T="2" E="4.878" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="29Mg">
+    <datum J="3/2" n="1" T="5/2" E="-124.146" dEexp="0.0" />
+    <datum J="1/2" n="1" T="5/2" E="0.054" dEexp="0.0" />
+    <datum J="5/2" n="1" T="5/2" E="1.638" dEexp="0.0" />
+    <datum J="3/2" n="2" T="5/2" E="2.5" dEexp="0.0" />
+    <datum J="1/2" n="2" T="5/2" E="2.615" dEexp="0.0" />
+    <datum J="3/2" n="3" T="5/2" E="3.224" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="30Mg">
+    <datum J="0" n="1" T="3" E="-130.509" dEexp="0.008" />
+    <datum J="2" n="1" T="3" E="1.482" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="26Al">
+    <datum J="5" n="1" T="0" E="-105.756" dEexp="0.0" />
+    <datum J="3" n="1" T="0" E="0.416" dEexp="0.0" />
+    <datum J="1" n="1" T="0" E="1.058" dEexp="0.0" />
+    <datum J="2" n="1" T="0" E="1.759" dEexp="0.0" />
+    <datum J="1" n="2" T="0" E="1.85" dEexp="0.0" />
+    <datum J="4" n="1" T="0" E="2.068" dEexp="0.0" />
+    <datum J="1" n="3" T="0" E="2.072" dEexp="0.0" />
+    <datum J="3" n="2" T="0" E="2.365" dEexp="0.0" />
+    <datum J="3" n="3" T="0" E="2.545" dEexp="0.0" />
+    <datum J="2" n="2" T="0" E="2.66" dEexp="0.0" />
+    <datum J="1" n="4" T="0" E="2.739" dEexp="0.0" />
+    <datum J="2" n="3" T="0" E="2.913" dEexp="0.0" />
+    <datum J="3" n="4" T="0" E="3.073" dEexp="0.0" />
+    <datum J="5" n="2" T="0" E="3.403" dEexp="0.0" />
+    <datum J="6" n="1" T="0" E="3.507" dEexp="0.0" />
+    <datum J="3" n="5" T="0" E="3.596" dEexp="0.0" />
+    <datum J="4" n="2" T="0" E="3.674" dEexp="0.0" />
+    <datum J="3" n="6" T="0" E="3.68" dEexp="0.0" />
+    <datum J="1" n="5" T="0" E="3.723" dEexp="0.0" />
+    <datum J="2" n="4" T="0" E="3.75" dEexp="0.0" />
+    <datum J="4" n="3" T="0" E="4.205" dEexp="0.0" />
+    <datum J="4" n="4" T="0" E="4.773" dEexp="0.0" />
+    <datum J="5" n="3" T="0" E="4.94" dEexp="0.0" />
+    <datum J="1" n="6" T="0" E="5.01" dEexp="0.0" />
+    <datum J="4" n="5" T="0" E="5.245" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="27Al">
+    <datum J="5/2" n="1" T="1/2" E="-118.814" dEexp="0.0" />
+    <datum J="1/2" n="1" T="1/2" E="0.844" dEexp="0.0" />
+    <datum J="3/2" n="1" T="1/2" E="1.014" dEexp="0.0" />
+    <datum J="7/2" n="1" T="1/2" E="2.211" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="2.735" dEexp="0.0" />
+    <datum J="3/2" n="2" T="1/2" E="2.982" dEexp="0.0" />
+    <datum J="9/2" n="1" T="1/2" E="3.004" dEexp="0.0" />
+    <datum J="1/2" n="2" T="1/2" E="3.68" dEexp="0.0" />
+    <datum J="3/2" n="3" T="1/2" E="3.957" dEexp="0.0" />
+    <datum J="5/2" n="3" T="1/2" E="4.41" dEexp="0.0" />
+    <datum J="11/2" n="1" T="1/2" E="4.51" dEexp="0.0" />
+    <datum J="7/2" n="2" T="1/2" E="4.58" dEexp="0.0" />
+    <datum J="5/2" n="4" T="1/2" E="4.811" dEexp="0.0" />
+    <datum J="5/2" n="5" T="1/2" E="5.248" dEexp="0.0" />
+    <datum J="9/2" n="2" T="1/2" E="5.419" dEexp="0.0" />
+    <datum J="11/2" n="2" T="1/2" E="5.499" dEexp="0.0" />
+    <datum J="9/2" n="3" T="1/2" E="5.667" dEexp="0.0" />
+    <datum J="1/2" n="3" T="1/2" E="5.752" dEexp="0.0" />
+    <datum J="1/2" n="4" T="1/2" E="7.071" dEexp="0.0" />
+    <datum J="11/2" n="3" T="1/2" E="7.4" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="28Al">
+    <datum J="3" n="1" T="1" E="-126.539" dEexp="0.0" />
+    <datum J="2" n="1" T="1" E="0.03" dEexp="0.0" />
+    <datum J="0" n="1" T="1" E="0.972" dEexp="0.0" />
+    <datum J="3" n="2" T="1" E="1.013" dEexp="0.0" />
+    <datum J="1" n="1" T="1" E="1.372" dEexp="0.0" />
+    <datum J="1" n="2" T="1" E="1.62" dEexp="0.0" />
+    <datum J="2" n="2" T="1" E="1.622" dEexp="0.0" />
+    <datum J="2" n="3" T="1" E="2.138" dEexp="0.0" />
+    <datum J="1" n="3" T="1" E="2.201" dEexp="0.0" />
+    <datum J="4" n="1" T="1" E="2.486" dEexp="0.0" />
+    <datum J="5" n="1" T="1" E="2.582" dEexp="0.0" />
+    <datum J="4" n="2" T="1" E="2.656" dEexp="0.0" />
+    <datum J="0" n="2" T="1" E="3.012" dEexp="0.0" />
+    <datum J="0" n="3" T="1" E="3.76" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="29Al">
+    <datum J="5/2" n="1" T="3/2" E="-135.975" dEexp="0.0" />
+    <datum J="1/2" n="1" T="3/2" E="1.398" dEexp="0.0" />
+    <datum J="7/2" n="1" T="3/2" E="1.754" dEexp="0.0" />
+    <datum J="3/2" n="1" T="3/2" E="2.222" dEexp="0.0" />
+    <datum J="3/2" n="2" T="3/2" E="2.866" dEexp="0.0" />
+    <datum J="5/2" n="2" T="3/2" E="3.062" dEexp="0.0" />
+    <datum J="5/2" n="3" T="3/2" E="3.184" dEexp="0.0" />
+    <datum J="1/2" n="2" T="3/2" E="3.433" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="30Al">
+    <datum J="3" n="1" T="2" E="-141.703" dEexp="0.0" />
+    <datum J="2" n="1" T="2" E="0.243" dEexp="0.0" />
+    <datum J="1" n="1" T="2" E="0.687" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="31Al">
+    <datum J="5/2" n="1" T="5/2" E="-148.856" dEexp="0.02" />
+    <datum J="1/2" n="1" T="5/2" E="0.946" dEexp="0.0" />
+    <datum J="3/2" n="1" T="5/2" E="1.612" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="32Al">
+    <datum J="1" n="1" T="3" E="-153.036" dEexp="0.086" />
+  </nucleus>
+  <nucleus name="33Al">
+    <datum J="5/2" n="1" T="7/2" E="-158.574" dEexp="0.073" />
+  </nucleus>
+  <nucleus name="28Si">
+    <datum J="0" n="1" T="0" E="-135.7" dEexp="0.0" />
+    <datum J="2" n="1" T="0" E="1.779" dEexp="0.0" />
+    <datum J="4" n="1" T="0" E="4.618" dEexp="0.0" />
+    <datum J="0" n="2" T="0" E="4.979" dEexp="0.0" />
+    <datum J="3" n="1" T="0" E="6.276" dEexp="0.0" />
+    <datum J="4" n="2" T="0" E="6.888" dEexp="0.0" />
+    <datum J="3" n="2" T="0" E="7.799" dEexp="0.0" />
+    <datum J="1" n="1" T="0" E="8.328" dEexp="0.0" />
+    <datum J="6" n="1" T="0" E="8.543" dEexp="0.0" />
+    <datum J="3" n="3" T="0" E="8.588" dEexp="0.0" />
+    <datum J="5" n="1" T="0" E="8.945" dEexp="0.0" />
+    <datum J="4" n="3" T="0" E="9.164" dEexp="0.0" />
+    <datum J="1" n="2" T="0" E="9.496" dEexp="0.0" />
+    <datum J="3" n="4" T="0" E="10.209" dEexp="0.0" />
+    <datum J="5" n="2" T="0" E="10.418" dEexp="0.0" />
+    <datum J="6" n="2" T="0" E="11.1" dEexp="0.0" />
+    <datum J="6" n="3" T="0" E="11.331" dEexp="0.0" />
+    <datum J="6" n="4" T="0" E="11.51" dEexp="0.0" />
+    <datum J="5" n="3" T="0" E="11.778" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="29Si">
+    <datum J="1/2" n="1" T="1/2" E="-144.174" dEexp="0.0" />
+    <datum J="3/2" n="1" T="1/2" E="1.273" dEexp="0.0" />
+    <datum J="5/2" n="1" T="1/2" E="2.028" dEexp="0.0" />
+    <datum J="3/2" n="2" T="1/2" E="2.426" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="3.067" dEexp="0.0" />
+    <datum J="7/2" n="1" T="1/2" E="4.08" dEexp="0.0" />
+    <datum J="9/2" n="1" T="1/2" E="4.741" dEexp="0.0" />
+    <datum J="1/2" n="2" T="1/2" E="4.84" dEexp="0.0" />
+    <datum J="5/2" n="3" T="1/2" E="4.895" dEexp="0.0" />
+    <datum J="7/2" n="2" T="1/2" E="5.285" dEexp="0.0" />
+    <datum J="9/2" n="2" T="1/2" E="5.652" dEexp="0.0" />
+    <datum J="7/2" n="3" T="1/2" E="5.812" dEexp="0.0" />
+    <datum J="3/2" n="3" T="1/2" E="5.949" dEexp="0.0" />
+    <datum J="9/2" n="3" T="1/2" E="6.616" dEexp="0.0" />
+    <datum J="11/2" n="1" T="1/2" E="7.139" dEexp="0.0" />
+    <datum J="11/2" n="2" T="1/2" E="8.173" dEexp="0.0" />
+    <datum J="13/2" n="1" T="1/2" E="8.641" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="30Si">
+    <datum J="0" n="1" T="1" E="-154.783" dEexp="0.0" />
+    <datum J="2" n="1" T="1" E="2.235" dEexp="0.0" />
+    <datum J="2" n="2" T="1" E="3.499" dEexp="0.0" />
+    <datum J="1" n="1" T="1" E="3.77" dEexp="0.0" />
+    <datum J="0" n="2" T="1" E="3.788" dEexp="0.0" />
+    <datum J="2" n="3" T="1" E="4.81" dEexp="0.0" />
+    <datum J="3" n="1" T="1" E="4.831" dEexp="0.0" />
+    <datum J="3" n="2" T="1" E="5.232" dEexp="0.0" />
+    <datum J="4" n="1" T="1" E="5.28" dEexp="0.0" />
+    <datum J="0" n="3" T="1" E="5.372" dEexp="0.0" />
+    <datum J="2" n="4" T="1" E="5.614" dEexp="0.0" />
+    <datum J="4" n="2" T="1" E="5.95" dEexp="0.0" />
+    <datum J="2" n="5" T="1" E="6.537" dEexp="0.0" />
+    <datum J="0" n="4" T="1" E="6.641" dEexp="0.0" />
+    <datum J="3" n="3" T="1" E="6.865" dEexp="0.0" />
+    <datum J="2" n="6" T="1" E="6.913" dEexp="0.0" />
+    <datum J="5" n="1" T="1" E="7.001" dEexp="0.0" />
+    <datum J="3" n="4" T="1" E="7.079" dEexp="0.0" />
+    <datum J="4" n="3" T="1" E="7.223" dEexp="0.0" />
+    <datum J="0" n="5" T="1" E="7.443" dEexp="0.0" />
+    <datum J="1" n="2" T="1" E="7.623" dEexp="0.0" />
+    <datum J="6" n="1" T="1" E="9.371" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="31Si">
+    <datum J="3/2" n="1" T="3/2" E="-161.37" dEexp="0.0" />
+    <datum J="1/2" n="1" T="3/2" E="0.752" dEexp="0.0" />
+    <datum J="5/2" n="1" T="3/2" E="1.695" dEexp="0.0" />
+    <datum J="3/2" n="2" T="3/2" E="2.317" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="32Si">
+    <datum J="0" n="1" T="2" E="-170.573" dEexp="0.0" />
+    <datum J="2" n="1" T="2" E="1.941" dEexp="0.0" />
+    <datum J="2" n="2" T="2" E="4.232" dEexp="0.0" />
+    <datum J="0" n="2" T="2" E="4.983" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="33Si">
+    <datum J="3/2" n="1" T="5/2" E="-175.056" dEexp="0.016" />
+    <datum J="1/2" n="1" T="5/2" E="1.01" dEexp="0.016" />
+    <datum J="5/2" n="1" T="5/2" E="4.29" dEexp="0.016" />
+  </nucleus>
+  <nucleus name="34Si">
+    <datum J="0" n="1" T="3" E="-182.592" dEexp="0.014" />
+  </nucleus>
+  <nucleus name="30P">
+    <datum J="1" n="1" T="0" E="-155.46" dEexp="0.01" />
+    <datum J="1" n="2" T="0" E="0.709" dEexp="0.0" />
+    <datum J="2" n="1" T="0" E="1.454" dEexp="0.0" />
+    <datum J="3" n="1" T="0" E="1.974" dEexp="0.0" />
+    <datum J="3" n="2" T="0" E="2.539" dEexp="0.0" />
+    <datum J="2" n="2" T="0" E="2.723" dEexp="0.0" />
+    <datum J="3" n="3" T="0" E="2.84" dEexp="0.0" />
+    <datum J="1" n="3" T="0" E="3.019" dEexp="0.0" />
+    <datum J="1" n="4" T="0" E="3.731" dEexp="0.0" />
+    <datum J="2" n="3" T="0" E="3.834" dEexp="0.0" />
+    <datum J="3" n="4" T="0" E="3.928" dEexp="0.0" />
+    <datum J="4" n="1" T="0" E="4.298" dEexp="0.0" />
+    <datum J="5" n="1" T="0" E="4.343" dEexp="0.0" />
+    <datum J="2" n="4" T="0" E="4.424" dEexp="0.0" />
+    <datum J="3" n="5" T="0" E="4.735" dEexp="0.0" />
+    <datum J="1" n="5" T="0" E="4.945" dEexp="0.0" />
+    <datum J="3" n="6" T="0" E="5.206" dEexp="0.0" />
+    <datum J="4" n="2" T="0" E="5.595" dEexp="0.0" />
+    <datum J="1" n="6" T="0" E="5.701" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="31P">
+    <datum J="1/2" n="1" T="1/2" E="-167.753" dEexp="0.01" />
+    <datum J="3/2" n="1" T="1/2" E="1.266" dEexp="0.0" />
+    <datum J="5/2" n="1" T="1/2" E="2.234" dEexp="0.0" />
+    <datum J="1/2" n="2" T="1/2" E="3.134" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="3.295" dEexp="0.0" />
+    <datum J="7/2" n="1" T="1/2" E="3.415" dEexp="0.0" />
+    <datum J="3/2" n="2" T="1/2" E="3.506" dEexp="0.0" />
+    <datum J="5/2" n="3" T="1/2" E="4.19" dEexp="0.0" />
+    <datum J="3/2" n="3" T="1/2" E="4.261" dEexp="0.0" />
+    <datum J="3/2" n="4" T="1/2" E="4.594" dEexp="0.0" />
+    <datum J="7/2" n="2" T="1/2" E="4.634" dEexp="0.0" />
+    <datum J="5/2" n="4" T="1/2" E="4.783" dEexp="0.0" />
+    <datum J="5/2" n="5" T="1/2" E="5.115" dEexp="0.0" />
+    <datum J="9/2" n="1" T="1/2" E="5.343" dEexp="0.0" />
+    <datum J="9/2" n="2" T="1/2" E="5.892" dEexp="0.0" />
+    <datum J="9/2" n="3" T="1/2" E="6.08" dEexp="0.0" />
+    <datum J="1/2" n="5" T="1/2" E="6.337" dEexp="0.0" />
+    <datum J="11/2" n="1" T="1/2" E="6.453" dEexp="0.0" />
+    <datum J="11/2" n="2" T="1/2" E="7.441" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="32P">
+    <datum J="1" n="1" T="1" E="-175.645" dEexp="0.01" />
+    <datum J="2" n="1" T="1" E="0.078" dEexp="0.0" />
+    <datum J="0" n="1" T="1" E="0.513" dEexp="0.0" />
+    <datum J="1" n="2" T="1" E="1.15" dEexp="0.0" />
+    <datum J="2" n="2" T="1" E="1.323" dEexp="0.0" />
+    <datum J="3" n="1" T="1" E="1.754" dEexp="0.0" />
+    <datum J="3" n="2" T="1" E="2.178" dEexp="0.0" />
+    <datum J="2" n="3" T="1" E="2.219" dEexp="0.0" />
+    <datum J="1" n="3" T="1" E="2.23" dEexp="0.0" />
+    <datum J="2" n="4" T="1" E="2.658" dEexp="0.0" />
+    <datum J="1" n="4" T="1" E="2.74" dEexp="0.0" />
+    <datum J="3" n="3" T="1" E="3.005" dEexp="0.0" />
+    <datum J="4" n="1" T="1" E="3.149" dEexp="0.0" />
+    <datum J="2" n="5" T="1" E="3.445" dEexp="0.0" />
+    <datum J="1" n="5" T="1" E="3.796" dEexp="0.0" />
+    <datum J="3" n="4" T="1" E="3.989" dEexp="0.0" />
+    <datum J="4" n="2" T="1" E="4.035" dEexp="0.0" />
+    <datum J="1" n="6" T="1" E="4.203" dEexp="0.0" />
+    <datum J="3" n="5" T="1" E="4.312" dEexp="0.0" />
+    <datum J="1" n="7" T="1" E="4.548" dEexp="0.0" />
+    <datum J="2" n="7" T="1" E="4.554" dEexp="0.0" />
+    <datum J="3" n="6" T="1" E="4.611" dEexp="0.0" />
+    <datum J="5" n="1" T="1" E="4.743" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="33P">
+    <datum J="1/2" n="1" T="3/2" E="-185.748" dEexp="0.01" />
+    <datum J="3/2" n="1" T="3/2" E="1.432" dEexp="0.0" />
+    <datum J="5/2" n="1" T="3/2" E="1.848" dEexp="0.0" />
+    <datum J="3/2" n="2" T="3/2" E="2.539" dEexp="0.0" />
+    <datum J="3/2" n="3" T="3/2" E="3.275" dEexp="0.0" />
+    <datum J="5/2" n="2" T="3/2" E="3.49" dEexp="0.0" />
+    <datum J="7/2" n="1" T="3/2" E="3.628" dEexp="0.0" />
+    <datum J="5/2" n="3" T="3/2" E="4.048" dEexp="0.0" />
+    <datum J="3/2" n="4" T="3/2" E="4.856" dEexp="0.0" />
+    <datum J="5/2" n="4" T="3/2" E="5.05" dEexp="0.0" />
+    <datum J="5/2" n="5" T="3/2" E="6.43" dEexp="0.0" />
+    <datum J="5/2" n="6" T="3/2" E="6.82" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="34P">
+    <datum J="1" n="1" T="2" E="-192.043" dEexp="0.015" />
+    <datum J="2" n="1" T="2" E="0.429" dEexp="0.0" />
+    <datum J="1" n="2" T="2" E="1.608" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="35P">
+    <datum J="1/2" n="1" T="5/2" E="-200.492" dEexp="0.01" />
+    <datum J="3/2" n="1" T="5/2" E="2.386" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="32S">
+    <datum J="0" n="1" T="0" E="-182.622" dEexp="0.01" />
+    <datum J="2" n="1" T="0" E="2.23" dEexp="0.0" />
+    <datum J="0" n="2" T="0" E="3.778" dEexp="0.0" />
+    <datum J="2" n="2" T="0" E="4.282" dEexp="0.0" />
+    <datum J="4" n="1" T="0" E="4.459" dEexp="0.0" />
+    <datum J="1" n="1" T="0" E="4.695" dEexp="0.0" />
+    <datum J="3" n="1" T="0" E="5.413" dEexp="0.0" />
+    <datum J="2" n="3" T="0" E="5.549" dEexp="0.0" />
+    <datum J="4" n="2" T="0" E="6.411" dEexp="0.0" />
+    <datum J="2" n="4" T="0" E="6.666" dEexp="0.0" />
+    <datum J="4" n="3" T="0" E="6.852" dEexp="0.0" />
+    <datum J="1" n="2" T="0" E="7.189" dEexp="0.0" />
+    <datum J="3" n="2" T="0" E="7.35" dEexp="0.0" />
+    <datum J="2" n="5" T="0" E="7.484" dEexp="0.0" />
+    <datum J="5" n="1" T="0" E="7.566" dEexp="0.0" />
+    <datum J="4" n="4" T="0" E="7.882" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="33S">
+    <datum J="3/2" n="1" T="1/2" E="-191.264" dEexp="0.01" />
+    <datum J="1/2" n="1" T="1/2" E="0.841" dEexp="0.0" />
+    <datum J="5/2" n="1" T="1/2" E="1.966" dEexp="0.0" />
+    <datum J="3/2" n="2" T="1/2" E="2.312" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="2.867" dEexp="0.0" />
+    <datum J="7/2" n="1" T="1/2" E="2.968" dEexp="0.0" />
+    <datum J="5/2" n="3" T="1/2" E="3.831" dEexp="0.0" />
+    <datum J="3/2" n="3" T="1/2" E="3.934" dEexp="0.0" />
+    <datum J="9/2" n="1" T="1/2" E="4.047" dEexp="0.0" />
+    <datum J="1/2" n="2" T="1/2" E="4.055" dEexp="0.0" />
+    <datum J="7/2" n="2" T="1/2" E="4.094" dEexp="0.0" />
+    <datum J="1/2" n="3" T="1/2" E="4.375" dEexp="0.0" />
+    <datum J="5/2" n="4" T="1/2" E="4.746" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="34S">
+    <datum J="0" n="1" T="1" E="-202.681" dEexp="0.01" />
+    <datum J="2" n="1" T="1" E="2.127" dEexp="0.0" />
+    <datum J="2" n="2" T="1" E="3.304" dEexp="0.0" />
+    <datum J="0" n="2" T="1" E="3.916" dEexp="0.0" />
+    <datum J="1" n="1" T="1" E="4.074" dEexp="0.0" />
+    <datum J="2" n="3" T="1" E="4.114" dEexp="0.0" />
+    <datum J="4" n="1" T="1" E="4.689" dEexp="0.0" />
+    <datum J="3" n="1" T="1" E="4.876" dEexp="0.0" />
+    <datum J="2" n="4" T="1" E="4.889" dEexp="0.0" />
+    <datum J="0" n="3" T="1" E="5.228" dEexp="0.0" />
+    <datum J="1" n="2" T="1" E="5.38" dEexp="0.0" />
+    <datum J="2" n="5" T="1" E="5.998" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="35S">
+    <datum J="3/2" n="1" T="3/2" E="-209.667" dEexp="0.01" />
+    <datum J="1/2" n="1" T="3/2" E="1.572" dEexp="0.0" />
+    <datum J="5/2" n="1" T="3/2" E="2.717" dEexp="0.0" />
+    <datum J="3/2" n="2" T="3/2" E="2.939" dEexp="0.0" />
+    <datum J="5/2" n="2" T="3/2" E="3.421" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="36S">
+    <datum J="0" n="1" T="2" E="-219.556" dEexp="0.01" />
+    <datum J="2" n="1" T="2" E="3.291" dEexp="0.0" />
+    <datum J="1" n="1" T="2" E="4.523" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="34Cl">
+    <datum J="3" n="1" T="0" E="-202.434" dEexp="0.0" />
+    <datum J="1" n="1" T="0" E="0.315" dEexp="0.0" />
+    <datum J="1" n="2" T="0" E="0.52" dEexp="0.0" />
+    <datum J="2" n="1" T="0" E="1.084" dEexp="0.0" />
+    <datum J="3" n="2" T="0" E="2.035" dEexp="0.0" />
+    <datum J="2" n="2" T="0" E="1.741" dEexp="0.0" />
+    <datum J="4" n="1" T="0" E="2.23" dEexp="0.0" />
+    <datum J="1" n="3" T="0" E="2.434" dEexp="0.0" />
+    <datum J="3" n="3" T="0" E="2.498" dEexp="0.0" />
+    <datum J="1" n="4" T="0" E="2.983" dEexp="0.0" />
+    <datum J="3" n="4" T="0" E="3.188" dEexp="0.0" />
+    <datum J="5" n="1" T="0" E="3.5" dEexp="0.0" />
+    <datum J="4" n="2" T="0" E="3.818" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="35Cl">
+    <datum J="3/2" n="1" T="1/2" E="-215.321" dEexp="0.01" />
+    <datum J="1/2" n="1" T="1/2" E="1.219" dEexp="0.0" />
+    <datum J="5/2" n="1" T="1/2" E="1.763" dEexp="0.0" />
+    <datum J="7/2" n="1" T="1/2" E="2.645" dEexp="0.0" />
+    <datum J="3/2" n="2" T="1/2" E="2.694" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="3.003" dEexp="0.0" />
+    <datum J="3/2" n="3" T="1/2" E="3.918" dEexp="0.0" />
+    <datum J="9/2" n="1" T="1/2" E="3.943" dEexp="0.0" />
+    <datum J="1/2" n="2" T="1/2" E="3.967" dEexp="0.014" />
+    <datum J="3/2" n="4" T="1/2" E="4.624" dEexp="0.0" />
+    <datum J="1/2" n="3" T="1/2" E="4.72" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="36Cl">
+    <datum J="2" n="1" T="1" E="-223.785" dEexp="0.01" />
+    <datum J="3" n="1" T="1" E="0.788" dEexp="0.0" />
+    <datum J="1" n="1" T="1" E="1.165" dEexp="0.0" />
+    <datum J="1" n="2" T="1" E="1.601" dEexp="0.0" />
+    <datum J="2" n="2" T="1" E="1.959" dEexp="0.0" />
+    <datum J="2" n="3" T="1" E="2.492" dEexp="0.0" />
+    <datum J="3" n="2" T="1" E="2.864" dEexp="0.0" />
+    <datum J="1" n="3" T="1" E="2.676" dEexp="0.0" />
+    <datum J="0" n="1" T="1" E="3.12" dEexp="0.0" />
+    <datum J="1" n="4" T="1" E="3.469" dEexp="0.0" />
+    <datum J="4" n="1" T="1" E="3.83" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="37Cl">
+    <datum J="3/2" n="1" T="3/2" E="-234.096" dEexp="0.01" />
+    <datum J="1/2" n="1" T="3/2" E="1.726" dEexp="0.0" />
+    <datum J="5/2" n="1" T="3/2" E="3.087" dEexp="0.0" />
+    <datum J="3/2" n="2" T="3/2" E="4.016" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="36Ar">
+    <datum J="0" n="1" T="0" E="-230.409" dEexp="0.01" />
+    <datum J="2" n="1" T="0" E="1.97" dEexp="0.014" />
+    <datum J="0" n="2" T="0" E="4.329" dEexp="0.0" />
+    <datum J="2" n="2" T="0" E="4.44" dEexp="0.0" />
+    <datum J="4" n="1" T="0" E="4.414" dEexp="0.0" />
+    <datum J="4" n="2" T="0" E="6.356" dEexp="0.0" />
+    <datum J="3" n="1" T="0" E="7.14" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="37Ar">
+    <datum J="3/2" n="1" T="1/2" E="-239.197" dEexp="0.01" />
+    <datum J="1/2" n="1" T="1/2" E="1.41" dEexp="0.0" />
+    <datum J="7/2" n="1" T="1/2" E="2.217" dEexp="0.0" />
+    <datum J="5/2" n="1" T="1/2" E="2.796" dEexp="0.0" />
+    <datum J="5/2" n="2" T="1/2" E="3.171" dEexp="0.0" />
+    <datum J="3/2" n="2" T="1/2" E="3.602" dEexp="0.0" />
+    <datum J="7/2" n="2" T="1/2" E="4.624" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="38Ar">
+    <datum J="0" n="1" T="1" E="-251.035" dEexp="0.01" />
+    <datum J="2" n="1" T="1" E="2.168" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="38K">
+    <datum J="3" n="1" T="0" E="-251.165" dEexp="0.01" />
+    <datum J="1" n="1" T="0" E="0.459" dEexp="0.0" />
+    <datum J="1" n="2" T="0" E="1.698" dEexp="0.0" />
+    <datum J="2" n="1" T="0" E="3.431" dEexp="0.0" />
+    <datum J="1" n="3" T="0" E="3.857" dEexp="0.0" />
+  </nucleus>
+  <nucleus name="39K">
+    <datum J="3/2" n="1" T="1/2" E="-264.18" dEexp="0.01" />
+    <datum J="1/2" n="1" T="1/2" E="2.522" dEexp="0.0" />
+  </nucleus>
+</experimentalData>
