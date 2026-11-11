@@ -1,4 +1,4 @@
-# README
+# Shell model interaction library (SMIL)
 
 Data and code repository to accompany article "Towards shell model interactions
 with credible uncertainties" by Oliver Gorton and Kostas Kravvaris.
